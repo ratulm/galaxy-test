@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: batfish-test
+  role_name: batfish_test
   author: ratul
   description: my test role for batfish
 
